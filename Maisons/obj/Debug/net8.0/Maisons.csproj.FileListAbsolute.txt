@@ -1,0 +1,14 @@
+E:\Cours\USRS46_POO\Maisons\Maisons\bin\Debug\net8.0\Maisons.exe
+E:\Cours\USRS46_POO\Maisons\Maisons\bin\Debug\net8.0\Maisons.deps.json
+E:\Cours\USRS46_POO\Maisons\Maisons\bin\Debug\net8.0\Maisons.runtimeconfig.json
+E:\Cours\USRS46_POO\Maisons\Maisons\bin\Debug\net8.0\Maisons.dll
+E:\Cours\USRS46_POO\Maisons\Maisons\bin\Debug\net8.0\Maisons.pdb
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\Maisons.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\Maisons.AssemblyInfoInputs.cache
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\Maisons.AssemblyInfo.cs
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\Maisons.csproj.CoreCompileInputs.cache
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\Maisons.dll
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\refint\Maisons.dll
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\Maisons.pdb
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\Maisons.genruntimeconfig.cache
+E:\Cours\USRS46_POO\Maisons\Maisons\obj\Debug\net8.0\ref\Maisons.dll
