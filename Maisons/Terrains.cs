@@ -32,7 +32,7 @@ namespace ExemplePOO
         public int CoutFinirCloture()
         {
             int prix = 0;
-            int prixCloture = 500;
+            int prixCloture = 50;
 
             if (this.NbCotesCloture < 4)
             {
@@ -46,7 +46,7 @@ namespace ExemplePOO
             int facteur = 2000;
 
             if (this.Riviere) { facteur += 500; }
-            if (this.NbCotesCloture < 4) { facteur += (4 - NbCotesCloture) * 100; }
+            facteur += CoutFinirCloture();
 
             if (Regex.IsMatch(this.Adresse, @"\bParis\b")) { facteur += 1500; }
             else if (Regex.IsMatch(this.Adresse, @"\bLyon\b")) { facteur += 500; }
